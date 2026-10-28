@@ -5,9 +5,9 @@ package ephemeralazapidataplaneresource
 
 import (
 	_jsii_ "github.com/aws/jsii-runtime-go/runtime"
-	_init_ "github.com/cdktn-io/cdktn-provider-azapi-go/azapi/jsii"
+	_init_ "github.com/cdktn-io/cdktn-provider-azapi-go/azapi/v2/jsii"
 
-	"github.com/cdktn-io/cdktn-provider-azapi-go/azapi/ephemeralazapidataplaneresource/internal"
+	"github.com/cdktn-io/cdktn-provider-azapi-go/azapi/v2/ephemeralazapidataplaneresource/internal"
 	"github.com/open-constructs/cdk-terrain-go/cdktn"
 )
 

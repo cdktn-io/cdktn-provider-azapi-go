@@ -5,11 +5,11 @@ package provider
 
 import (
 	_jsii_ "github.com/aws/jsii-runtime-go/runtime"
-	_init_ "github.com/cdktn-io/cdktn-provider-azapi-go/azapi/jsii"
+	_init_ "github.com/cdktn-io/cdktn-provider-azapi-go/azapi/v2/jsii"
 
 	"github.com/aws/constructs-go/constructs/v10"
-	"github.com/cdktn-io/cdktn-provider-azapi-go/azapi/provider/internal"
-	"github.com/cdktn-io/cdktn-provider-azapi-go/azapi/providerfunctions"
+	"github.com/cdktn-io/cdktn-provider-azapi-go/azapi/v2/provider/internal"
+	"github.com/cdktn-io/cdktn-provider-azapi-go/azapi/v2/providerfunctions"
 	"github.com/open-constructs/cdk-terrain-go/cdktn"
 )
 

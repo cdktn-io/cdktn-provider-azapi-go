@@ -5,10 +5,10 @@ package resourceaction
 
 import (
 	_jsii_ "github.com/aws/jsii-runtime-go/runtime"
-	_init_ "github.com/cdktn-io/cdktn-provider-azapi-go/azapi/jsii"
+	_init_ "github.com/cdktn-io/cdktn-provider-azapi-go/azapi/v2/jsii"
 
 	"github.com/aws/constructs-go/constructs/v10"
-	"github.com/cdktn-io/cdktn-provider-azapi-go/azapi/resourceaction/internal"
+	"github.com/cdktn-io/cdktn-provider-azapi-go/azapi/v2/resourceaction/internal"
 	"github.com/open-constructs/cdk-terrain-go/cdktn"
 )
 
